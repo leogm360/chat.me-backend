@@ -1,0 +1,16 @@
+{
+  "name": "chat.me-backend",
+  "version": "1.0.0-develoment",
+  "author": "Leonardo Moraes <leogm360@gmail.com>",
+  "license": "MIT",
+  "description": "Simple chat application backend.",
+  "engineStrict": true,
+  "engines": {
+    "node": "v18.18.0"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
